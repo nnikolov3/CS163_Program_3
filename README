@@ -1,0 +1,14 @@
+README
+
+The scope of the program is to develop an application that will make use of a Table ADT,
+utilizing a hash table and using chaining as a collision resolution technique. 
+Furthermore, the main purpose of the application is the client user to be able to store ,
+retrieve and display information for a video game in an efficient, and fast way.
+Overall, the user should be able to insert information based on a keyword, 
+load information from an external data file, remove a game based on a keyword, 
+add recommendations for a specific platform, retrieve information ,
+and start rating for all and/or a specific platform(s), 
+and lastly display all games for a particular platform 
+or display all games for all platforms without any particular order.
+
+
